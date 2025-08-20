@@ -1,4 +1,4 @@
-# It is a Multimodal time series prediction for Shenzheng city in China.
+# It is a Multimodal time series prediction project for Shenzheng city in China.
 
 The work was down by mix of Chinese and English, because it is a English project but using Chinese data.
 
